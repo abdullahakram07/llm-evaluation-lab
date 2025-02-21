@@ -1,0 +1,3 @@
+{"id":"retention","output":"Backups are retained for 30 days. [src_ops]","model":"synthetic-fixture","prompt_version":"v2","latency_ms":180,"cost_usd":0}
+{"id":"classify","output":"{\"category\":\"billing\",\"priority\":\"normal\"}","model":"synthetic-fixture","prompt_version":"v2","latency_ms":120,"cost_usd":0}
+{"id":"abstain","output":"That information is not available.","model":"synthetic-fixture","prompt_version":"v2","latency_ms":90,"cost_usd":0}
